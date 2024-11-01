@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Shipping Notifications\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-01 19:37+0000\n"
+"PO-Revision-Date: 2018-08-01 19:40+0000\n"
+"Last-Translator: divint <admin@divint.no>\n"
+"Language-Team: Norsk bokmål\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Description of the plugin
+msgid ""
+"Display a notification to the user when free shipping is available based on "
+"current cart item totals."
+msgstr ""
+"Viser en melding til kunden når gratis frakt vil være tilgjengelig basert på "
+"total verdi i handlekurven."
+
+#. URI of the plugin
+msgid "https://divint.no/wordpress/plugins/woocommerce-shipping-notifications"
+msgstr "https://divint.no/wordpress/plugins/woocommerce-shipping-notifications"
+
+#. Author URI of the plugin
+msgid "https://jonkristian.no"
+msgstr "https://jonkristian.no"
+
+#. Author of the plugin
+msgid "Jon Kristian Nilsen"
+msgstr "Jon Kristian Nilsen"
+
+#: woocommerce-until-free-shipping.php:87
+#, php-format
+msgid ""
+"To get free shipping, you should consider increasing your purchase by %s."
+msgstr "Du er %s unna å få gratis frakt."
+
+#: woocommerce-until-free-shipping.php:89
+msgid "Wohoo! Shipping is free."
+msgstr "Wohoo! Frakt for denne ordren er gratis."
+
+#. Name of the plugin
+msgid "Woocommerce Shipping Notifications"
+msgstr "Woocommerce Shipping Notifications"
